@@ -38,6 +38,5 @@ gcc -pthread -o server server.c
 /*or*/
 gcc -pthread -o client client.c
 ```
-![Screenshot_1](https://user-images.githubusercontent.com/64156908/165906381-12800722-4064-4da6-a785-90f7abc5e4ce.jpg)
 
 
